@@ -1,0 +1,8 @@
+Requirements to run locally:
+---------------------------------
+
+Vaadin7
+Java 8
+Spring
+Hibernate
+and any app server to run 
